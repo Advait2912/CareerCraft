@@ -4,3 +4,6 @@ pydantic
 python-multipart
 pdfplumber
 python-docs
+python-docx
+scikit-learn
+textstat
